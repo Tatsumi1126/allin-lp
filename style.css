@@ -914,6 +914,17 @@ section {
   margin-top: 10px;
 }
 
+.price-payment {
+  color: var(--accent);
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin-top: 15px;
+  padding: 10px 20px;
+  background: rgba(255, 107, 53, 0.1);
+  border-radius: 8px;
+  display: inline-block;
+}
+
 .price-includes {
   list-style: none;
   text-align: left;
